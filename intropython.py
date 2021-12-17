@@ -9,5 +9,6 @@ def afficherLongeur(chaine):
     print('la longeur de la chaine '+  chaine +" est ", len(chaine))
 
 afficherLongeur('Tiana')
+print("ss")
 afficherLongeur('Vecchia')
 afficherLongeur("mamitiana")
